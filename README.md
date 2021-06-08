@@ -16,3 +16,6 @@ This program always grabs new updated proxies. You can choose from HTTP, HTTP, S
 # Screenshots
 ![GitHub Logo](https://cdn.discordapp.com/attachments/715132694383689729/837371438359904316/s2.png)<br>
 ![GitHub Logo](https://cdn.discordapp.com/attachments/715132694383689729/837371442415927336/s3.png)<br>
+
+# ERRORS
+Some errors on this tool, we will fix it soon!
