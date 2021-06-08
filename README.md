@@ -10,7 +10,7 @@ This program always grabs new updated proxies. You can choose from HTTP, HTTP, S
 <code>sudo git clone https://github.com/Z3NTL3/Scorpy-Proxies</code><br>
 <code>cd Scorpy-Proxies</code><br>
 <code>chmod +x scorpion-hackz.com</code><br>
-<code>./scorpion-hackz.com</code><br>
+<code>./scorpion-hackz</code><br>
 
 # Screenshots
 ![GitHub Logo](https://cdn.discordapp.com/attachments/715132694383689729/837371438359904316/s2.png)<br>
